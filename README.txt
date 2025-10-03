@@ -26,4 +26,4 @@ Math problems that we solved using our AI Tutor:
 Solve for x:
 (2𝑥+3𝑖)+(5𝑥−7𝑖)=(4−2𝑖)
 
-Try this-- 
+Try this--  https://maitreed03-math-tutor-app-kbrxfc.streamlit.app/
